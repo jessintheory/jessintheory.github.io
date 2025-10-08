@@ -56,8 +56,8 @@ interests:
 education:
   - area: PhD Social-Organizational Psychology
     institution: Teachers College,Columbia University
-    date_start: 2025-09
-    date_end: 2030-05
+    date_start: 2025-09-01
+    date_end: 2030-05-01
     summary: |
       I study how power, inequality, and resistance shape conflict, fairness, and trust to promote more equitable and trustworthy organizational and digital spaces.
     # button:
