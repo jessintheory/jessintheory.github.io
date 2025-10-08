@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alex Johnson
+title: Jessica A
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -34,69 +34,67 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'mailto:jp4722@tc.columbia.edu'
     label: E-mail Me
   - icon: brands/bluesky
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://bsky.app/profile/jessintheory.bsky.social
+  # - icon: brands/github
+  #   url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/jessica-p-araujo/
+  # - icon: academicons/google-scholar
+  #   url: https://scholar.google.com/citations?user=alexjohnson
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Power
+  - Inequality
+  - Resistance to Change
+  - Conflict and Cooperation
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Social-Organizational Psychology
+    institution: Teachers College,Columbia University
+    date_start: 2025-09
+    date_end: 2030-05
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+      I study how power, inequality, and resistance shape conflict, fairness, and trust to promote more equitable and trustworthy organizational and digital spaces.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
+  - area: BA Psychology
+    institution: Smith College
+    date_start: 2021-09
+    date_end: 2023-05
     summary: |
       GPA: 3.9/4.0
 
-      Minored in Mathematics. President of AI Club.
-
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+      Minored in Applied Statistics
+  - area: AA Psychology
+    institution: College of San Mateo
+    date_start: 2019-08
+    date_end: 2021-05
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      GPA: 3.97/4.0
+
+# work:
+#   - position: Senior AI Research Scientist
+#     company_name: Meta AI
+#     company_url: 'https://ai.meta.com/'
+#     company_logo: ''
+#     date_start: 2020-01-01
+#     date_end: ''
+#     summary: |2-
+#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+#   - position: AI Research Intern
+#     company_name: OpenAI
+#     company_url: 'https://openai.com/'
+#     company_logo: ''
+#     date_start: 2019-06-01
+#     date_end: 2019-12-31
+#     summary: |
+#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -135,8 +133,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: Portuguese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -166,4 +164,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+ I study how power, inequality, and resistance shape conflict, fairness, and trust to promote more equitable and trustworthy organizational and digital spaces.
