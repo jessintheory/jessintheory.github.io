@@ -65,16 +65,16 @@ education:
     #   url: 'https://example.com/thesis.pdf'
   - area: BA Psychology
     institution: Smith College
-    date_start: 2021-09
-    date_end: 2023-05
+    date_start: 2021-09-01
+    date_end: 2023-05-01
     summary: |
       GPA: 3.9/4.0
 
       Minored in Applied Statistics
   - area: AA Psychology
     institution: College of San Mateo
-    date_start: 2019-08
-    date_end: 2021-05
+    date_start: 2019-08-01
+    date_end: 2021-05-01
     summary: |
       GPA: 3.97/4.0
 
