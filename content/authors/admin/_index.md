@@ -6,15 +6,15 @@ title: Alex Johnson
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Jessica
+last_name: A
 
 # Pronouns (optional)
-pronouns: he/him
+pronouns: she/her
 
 # Status emoji
 status:
-  icon: 🚀
+  icon: ✨
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Columbia University
+    # url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -36,7 +36,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:alex.johnson@meta.com'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/bluesky
     url: https://twitter.com/AlexAIResearch
   - icon: brands/github
     url: https://github.com/alexjohnsonai
