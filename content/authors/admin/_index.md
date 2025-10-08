@@ -38,14 +38,14 @@ profiles:
     label: E-mail Me
   - icon: brands/bluesky
     url: https://bsky.app/profile/jessintheory.bsky.social
-  # - icon: brands/github
-  #   url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jessica-p-araujo/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/citations?user=alexjohnson
   # - icon: academicons/orcid
   #   url: https://orcid.org/0000-0002-1825-0097
+  # - icon: brands/github
+  #   url: https://github.com/alexjohnsonai
 
 interests:
   - Power
