@@ -36,6 +36,25 @@ header:
     show_theme_chooser: true
     logo:
       text: 'Jessica'
+format:
+  html:
+    theme: flatly
+    css: |
+      /* --- Make header text larger and bolder like Shilaan Alzahawi’s site --- */
+      .navbar-brand {
+        font-size: 2rem !important;      /* Adjust 1.8–2.2rem as needed */
+        font-weight: 700 !important;     /* Bold */
+        letter-spacing: 0.3px;
+        margin-top: 0.1rem;
+        margin-bottom: 0.1rem;
+      }
+
+      /* --- Slim the navbar height for a cleaner look --- */
+      .navbar {
+        padding-top: 0.3rem !important;
+        padding-bottom: 0.3rem !important;
+        box-shadow: 0 1px 3px rgba(0,0,0,0.08); /* optional subtle line */
+      }
 
 # Site footer
 footer:
