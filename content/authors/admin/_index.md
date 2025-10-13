@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jp4722@tc.columbia.edu'
+    url: 'mailto:'
     label: E-mail Me
   - icon: brands/bluesky
     url: https://bsky.app/profile/jessintheory.bsky.social
