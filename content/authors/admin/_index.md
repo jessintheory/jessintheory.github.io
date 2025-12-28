@@ -10,7 +10,7 @@ first_name: Jessica
 last_name: A
 
 # Pronouns (optional)
-pronouns: she/her/hers
+pronouns: she/her
 
 # Status emoji
 status:
