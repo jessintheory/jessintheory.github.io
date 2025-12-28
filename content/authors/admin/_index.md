@@ -34,7 +34,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto: test@test.com
+    url: 'mailto:test@test.com'
     label: E-mail Me
   - icon: brands/bluesky
     url: https://bsky.app/profile/jessintheory.bsky.social
@@ -55,7 +55,7 @@ interests:
 
 education:
   - area: PhD Social-Organizational Psychology
-    institution: Teachers College,Columbia University
+    institution: Teachers College, Columbia University
     date_start: 2025-09-01
     date_end: 2030-05-01
     summary: |
@@ -161,4 +161,4 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
- I study how power, inequality, and resistance shape conflict, fairness, and trust to promote more equitable and trustworthy organizational and digital spaces.
+I study how power, inequality, and resistance shape conflict, fairness, and trust to promote more equitable and trustworthy organizational and digital spaces.
