@@ -60,9 +60,6 @@ education:
     date_end: 2030-05-01
     summary: |
       I study how power, inequality, and resistance shape conflict, fairness, and trust to promote more equitable and trustworthy organizational and digital spaces.
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com/thesis.pdf'
   - area: BA Psychology
     institution: Smith College
     date_start: 2021-09-01
